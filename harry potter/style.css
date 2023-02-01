@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Explora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Explora&display=swap');
+.daily-prophet{
+    width: 1300px;
+    background-color: blanchedalmond;
+    margin: auto;
+    padding: 50px;
+}
+.paper-header{
+    height: 200px;
+    background: url("img/paper-head.PNG") center/cover no-repeat;
+}
+.paper-sub-header{
+    height: 120px;
+    background: url("img/paper-sub-head.PNG") center/cover no-repeat;
+}
+.paper-content{
+    margin-top: 30px;
+    border:3px solid black;
+}
+.first-article{
+    padding: 30px;
+}
+.first-article-title{
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Explora', cursive;
+}
+.first-article-img{
+    opacity: 0.7;
+    float:right;
+}
+.first-article-text{
+    line-height: 32px;
+}
+.second-article{
+    padding: 30px;
+}
+.second-article-title{
+    text-align: center;
+    font-size: 50px;
+    font-family:"Sofia", sans-serif; }
+.column{}
